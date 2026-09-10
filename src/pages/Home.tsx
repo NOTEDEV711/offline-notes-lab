@@ -74,9 +74,9 @@ export default function Home() {
   borderBottom: "1px solid #ddd",
   background: "#f8f9fa"
 }}>
-  <strong>Afolayan Fahad Olamilekan</strong>
+  <strong>Mariam Adamu</strong>
   <div>Electrical Engineering</div>
-  <div>Matric No.: 2024/1/97308EE</div>
+  <div>Matric No: 2024/1/97542EE</div>
 </div>
       <header>
         <span className="brand">Offline Notes Lab</span>
