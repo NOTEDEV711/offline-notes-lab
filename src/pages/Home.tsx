@@ -68,6 +68,16 @@ export default function Home() {
 
   return (
     <div className="shell">
+      <div style={{
+  textAlign: "center",
+  padding: "12px 20px",
+  borderBottom: "1px solid #ddd",
+  background: "#f8f9fa"
+}}>
+  <strong>Afolayan Fahad Olamilekan</strong>
+  <div>Electrical Engineering</div>
+  <div>Matric No.: 2024/1/97308EE</div>
+</div>
       <header>
         <span className="brand">Offline Notes Lab</span>
         <span className="status">{online ? "Online" : "Offline"}</span>
